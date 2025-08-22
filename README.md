@@ -71,3 +71,8 @@ and [YouTube channel](https://www.youtube.com/@ARCBITA).
   citation: "Speaker, Title, ARC BITA Geek Seminars, YYYY-MM-DD, Available at: URL"
   ```
 * **Note:** The session is lead is responsible for third-party materials including their original license/attributions.
+
+---
+
+### Changelog:
+* 2025-08-22: Initial repo setup, developed & published by Dr. Steve Bickley.
