@@ -8,7 +8,7 @@ The Official Knowledge Hub for ARC BITA’s Geek Seminar Series
 * Slides, code demos, and resources
 * Recordings & transcripts (post-session)
 
-## Folder laout:
+## Folder layout:
 ```
 /sessions/YYYY-MM-DD-topic/
   abstract.md | slides/ | demo/ |
