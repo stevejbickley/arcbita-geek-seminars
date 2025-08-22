@@ -37,8 +37,8 @@ The Official Knowledge Hub for ARC BITA’s Geek Seminar Series
 * Per-session licensing & attributions/recommended citations live in each session’s abstract.md (set by the session lead).
 * If not specified by session lead, these defaults apply:
   ```
-  license_content: "CC BY 4.0"   # change to: BY-SA / BY-NC / BY-NC-SA / BY-ND / BY-NC-ND / CC0
-  license_code: "MIT"            # or "Apache-2.0" if you need a patent grant
-  citation: "Speaker, Title, ARC BITA Geek Seminars, YYYY-MM-DD, URL"
+  license_content: "CC BY 4.0"   # Change to, e.g., BY-SA (Same as BY + derivatives must use same license) / BY-NC (Copy/remix non-commercial only) / etc., as required.
+  license_code: "MIT"            # Or "Apache-2.0" if you need a patent grant
+  citation: "Speaker, Title, ARC BITA Geek Seminars, YYYY-MM-DD, Available at: URL"
   ```
 * **Note:** any third-party materials or datasets must include their original license/attributions.
