@@ -11,7 +11,7 @@ The Knowledge Hub for ARC BITA’s Geek Seminar Series.
 ## Folder laout:
 ```
 /sessions/YYYY-MM-DD-topic/
-  abstract.md | speaker-bio.md | slides/ | demo/
+  abstract.md | slides/ | demo/
 /recordings/            # video files or link stubs
 /transcripts/           # .vtt/.txt
 ```
