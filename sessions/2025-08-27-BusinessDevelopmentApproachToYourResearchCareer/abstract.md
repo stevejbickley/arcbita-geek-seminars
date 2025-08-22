@@ -47,7 +47,7 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 - 00:50–01:00 — Wrap & resources
 
 ### Materials
-- **Slides:** [link](../slides/2025-08-22-BusinessDevelopmentApproachToYourResearchCareer.pdf)
+- **Slides:** [link](./slides/2025-08-22-BusinessDevelopmentApproachToYourResearchCareer.pdf)
 - **Code/demo:** Not applicable.
 - **Dataset(s):** Not applicable.
 
