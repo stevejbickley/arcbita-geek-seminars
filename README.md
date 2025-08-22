@@ -29,7 +29,7 @@ The Knowledge Hub for ARC BITA’s Geek Seminar Series.
     * Update resources.md with references.
 
 ## Quick links:
-* **Schedule: ** schedule.md (to be added)
+* **Schedule:** schedule.md (to be added)
 * **Contribute:** open an issue
 
 **Note:** any third-party materials or datasets must include their original license/attributions.
