@@ -1,5 +1,18 @@
 # arcbita-geek-seminars
 
+<table>
+  <tr>
+    <td width="110">
+      <a href="https://arcbita.org/">
+        <img src="./arcbita.png" alt="ARC BITA logo" width="100">
+      </a>
+    </td>
+    <td>
+      <strong>Australian Research Centre for Behavioural Insights for Technology Adoption (ARC BITA)</strong>
+    </td>
+  </tr>
+</table>
+
 ### Welcome to the ARC BITA Geek Seminars Knowledge Hub!
 _Last Updated: 22 August 2025 by Dr. Steve Bickley_
 
@@ -58,19 +71,3 @@ and [YouTube channel](https://www.youtube.com/@ARCBITA).
   citation: "Speaker, Title, ARC BITA Geek Seminars, YYYY-MM-DD, Available at: URL"
   ```
 * **Note:** The session is lead is responsible for third-party materials including their original license/attributions.
-
----
-
-
-<table>
-  <tr>
-    <td width="110">
-      <a href="https://arcbita.org/">
-        <img src="./arcbita.png" alt="ARC BITA logo" width="100">
-      </a>
-    </td>
-    <td>
-      <strong>Australian Research Centre for Behavioural Insights for Technology Adoption (ARC BITA)</strong>
-    </td>
-  </tr>
-</table>
