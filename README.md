@@ -21,7 +21,7 @@ The Knowledge Hub for ARC BITA’s Geek Seminar Series.
   * Open an issue using New Session template (to be added).
 2. Before the session:
   * Copy /templates/session → /sessions/YYYY-MM-DD-topic/.
-  * Add abstract.md, speaker-bio.md, slides, and any demo code.
+  * Add abstract.md, slides, and any demo code.
   * Add the registration link and Zoom/room details to the session folder.
 3. After the session:
   * Drop the recording into /recordings (or add a link stub).
