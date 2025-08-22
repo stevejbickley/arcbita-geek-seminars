@@ -9,10 +9,10 @@ The Knowledge Hub for ARC BITA’s Geek Seminar Series.
 * Automation assets (forms, calendars, upload scripts/Actions)
 
 ## Folder laout:
-/sessions/YYYY-MM-DD-topic/
-  abstract.md | speaker-bio.md | slides/ | demo/
-/recordings/            # video files or link stubs
-/transcripts/           # .vtt/.txt
+* /sessions/YYYY-MM-DD-topic/
+  * abstract.md | speaker-bio.md | slides/ | demo/
+* /recordings/            # video files or link stubs
+* /transcripts/           # .vtt/.txt
 
 ## Workflow:
 1. Propose a session:
