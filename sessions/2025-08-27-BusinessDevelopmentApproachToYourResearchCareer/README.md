@@ -16,7 +16,11 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 
 ---
 ### Session Title
-> “Business development approach to growing your research” with ARC BITA’s Dr Tony Beatton and Dr Steve Bickley
+> Business development approach to growing your research career
+
+### Presenter(s)
+> ARC BITA’s Dr Tony Beatton & Dr Steve Bickley
+
 
 ### Abstract
 > After years and years of study you are nearing the end of the long difficult pathway to the PhD. The thesis was successfully defended at the Final Seminar, edits complete and the Thesis is finally submitted for marking by Reviewers Unknown. If I am lucky the review will be complete in three months and I will get my PhD parchment, the ticket to a permanent job in academia. In reality, few recently graduated PhDs go straight into a permanent university job. For some of us who have that ‘killer’ paper we wrote during our PhD, we are snapped up by a top university in expectation that we will continue to publish our research papers in top academic journals. The vision of joining the pathway that begins with a tenured university lecturer position and sees us retire as a ‘much-cited’ and famous university professor is the dream of many newly minted PhDs.
@@ -41,10 +45,10 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 - Nil required.
 
 ### Agenda (indicative)
-- 00:00–00:05 — Welcome & context  
-- 00:05–00:35 — Main content
-- 00:35–00:50 — Hands-on / Q&A  
-- 00:50–01:00 — Wrap & resources
+- 00:00–00:05 — Welcome & context (Steve)
+- 00:05–00:20 — Slides #1 (Steve)
+- 00:20–00:50 — Slides #2 (Tony)
+- 00:50–01:00 — Q&A / Wrap-up & resources (All)
 
 ### Materials
 - **Slides:** [link](./slides/)
@@ -72,7 +76,8 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 
 ### Changelog
 - 2025-08-15: Initial slides developed by Dr. Douglas Beatton.
-- 2025-08-22: Workshop slides uploaded by Dr. Steve Bickley.
+- 2025-08-22: Tony's slides uploaded to repo by Dr. Steve Bickley.
+- 2025-08-22: Steve's slides developed and uploaded by Dr. Steve Bickley.
 
 ---
 
