@@ -1,5 +1,6 @@
 # arcbita-geek-seminars
-The Knowledge Hub for ARC BITA’s Geek Seminar Series. 
+The Official Knowledge Hub for ARC BITA’s Geek Seminar Series 
+
 (_Last Updated: 22 August 2025 by Dr. Steve Bickley_)
 
 ## What this repo holds:
