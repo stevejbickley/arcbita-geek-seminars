@@ -49,7 +49,7 @@ and [YouTube channel](https://www.youtube.com/@ARCBITA).
 
 ---
 
-## Licensing & Attributions:
+### Licensing & Attributions:
 * Per-session licensing & attributions/recommended citations live in each session’s abstract.md (set by the session lead).
 * If not specified by session lead, these defaults generally apply:
   ```
