@@ -44,11 +44,11 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 ### Prerequisites & setup
 - Nil required.
 
-### Agenda (indicative)
-- 00:00–00:05 — Welcome & context (Steve)
-- 00:05–00:20 — Slides #1 (Steve)
-- 00:20–00:50 — Slides #2 (Tony)
-- 00:50–01:00 — Q&A / Wrap-up & resources (All)
+### Agenda 
+- 00:00–00:05 — Welcome & introduction (Steve)
+- 00:05–00:40 — Slides #1 (Steve)
+- 00:40–01:35 — Slides #2 (Tony)
+- 01:35–01:40 — Wrap-up (Steve & Tony)
 
 ### Materials
 - **Slides:** [link](./slides/)
@@ -56,8 +56,8 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 - **Dataset(s):** Not applicable.
 
 ### Recording & transcript (post-session)
-- **Recording:** [watch](RECORDING_URL) (pending)
-- **Transcript:** [download/read](TRANSCRIPT_URL) (pending)
+- **Recording:** [link](./recording/)
+- **Transcript:** Not applicable.
 
 ### References & further reading
 - Nil.
@@ -76,8 +76,9 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 
 ### Changelog
 - 2025-08-15: Initial slides developed by Dr. Douglas Beatton.
-- 2025-08-22: Tony's slides uploaded to repo by Dr. Steve Bickley.
+- 2025-08-22: Tony's slides uploaded to repo + initial session README developed by Dr. Steve Bickley.
 - 2025-08-22: Steve's slides developed and uploaded by Dr. Steve Bickley.
+- 2025-09-01: Recording uploaded + revised/finalised session README by Dr. Steve Bickley.
 
 ---
 
