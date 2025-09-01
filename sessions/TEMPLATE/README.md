@@ -17,13 +17,15 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 ---
 
 ### Session Title
-> “Session Title” with Presenter Name(s)
+> Session Title
 
+### Presenter(s)
+> Presenter(s) Name & Affiliations
 
 ### Abstract
 > 120–180 words describing the problem, approach, and expected value for attendees.
 
-### Learning outcomes (3–5)
+### Learning outcomes (3-5)
 - Outcome 1
 - Outcome 2
 - Outcome 3
@@ -41,13 +43,13 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 - 00:50–01:00 — Wrap & resources
 
 ### Materials
-- **Slides:** [link](SLIDES_URL)
-- **Code/demo:** [repo](DEMO_REPO_URL) (pending, to be added)
-- **Dataset(s):** links or notes
+- **Slides:** [link](./slides/)
+- **Code/demo:** (pending, to be added)
+- **Dataset(s):** (pending, to be added)
 
 ### Recording & transcript (post-session)
-- **Recording:** [watch](RECORDING_URL) (pending, to be added)
-- **Transcript:** [download/read](TRANSCRIPT_URL) (pending, to be added)
+- **Recording:** (pending, to be added)
+- **Transcript:** (pending, to be added)
 
 ### References & further reading
 - Key papers, docs, or tutorials.
@@ -66,7 +68,8 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 ---
 
 ### Changelog
-- 2025-08-22: Initial version by Dr. Steve Bickley.
+- 2025-08-22: Initial version of template README.md file created by Dr. Steve Bickley.
+- 2025-09-01: Revised version of template README.md file by Dr. Steve Bickley.
 
 ---
 
