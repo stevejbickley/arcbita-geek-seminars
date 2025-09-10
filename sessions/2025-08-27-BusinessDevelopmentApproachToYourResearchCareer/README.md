@@ -19,7 +19,7 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 > Business development approach to growing your research career
 
 ### Presenter(s)
-> ARC BITA’s Dr Tony Beatton & Dr Steve Bickley
+> Dr Tony Beatton & Dr Steve Bickley, ARC Centre for Behavioural Insights for Technology Adoption (ARC BITA) at QUT
 
 
 ### Abstract
@@ -79,6 +79,7 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 - 2025-08-22: Tony's slides uploaded to repo + initial session README developed by Dr. Steve Bickley.
 - 2025-08-22: Steve's slides developed and uploaded by Dr. Steve Bickley.
 - 2025-09-01: Recording uploaded + revised/finalised session README by Dr. Steve Bickley.
+- 2025-09-10: Minor edits to README for Steve & Tony's affiliation.
 
 ---
 

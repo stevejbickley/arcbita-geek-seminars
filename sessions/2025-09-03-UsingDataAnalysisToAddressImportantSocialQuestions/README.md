@@ -20,7 +20,7 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 > “Using data analysis to address important social questions”
 
 ### Presenter(s)
-> ARC BITA’s Dr Tony Beatton
+> Dr Tony Beatton, ARC Centre for Behavioural Insights for Technology Adoption (ARC BITA) at QUT
 
 ### Abstract
 > This Geek Seminar explores how data analysis can be a powerful tool for understanding and tackling some of the most pressing social challenges we face today. From health and education to transport, sustainability, and community wellbeing, data helps us uncover patterns, test assumptions, and generate insights that can shape smarter decisions and policies.
@@ -73,6 +73,8 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 ### Changelog
 - 2025-08-29: Initial slides developed by Dr. Douglas Beatton.
 - 2025-09-01: Slides & workshop materials uploaded to repo + initial session README developed by Dr. Steve Bickley.
+- 2025-09-04: Updated README with recording link.
+- 2025-09-10: Updated README with Tony's affiliation.
 
 ---
 
