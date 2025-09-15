@@ -17,59 +17,64 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 ---
 
 ### Session Title
-> Session Title
+> Git + Python (Poetry) - Hands-on Foundations
 
 ### Presenter(s)
-> Presenter(s) Name & Affiliations
+> Dr Steve Bickley, ARC Centre for Behavioural Insights for Technology Adoption (ARC BITA) at QUT
 
 ### Abstract
-> 120–180 words describing the problem, approach, and expected value for attendees.
+> New to version control or reproducible Python projects? This hands-on session gets you from zero to a clean, shareable repo. The session will cover core Git workflows (clone, branch, commit, push, pull request) and set up a modern Python project using Poetry and pyenv for dependable dependencies management and isolated virtual environments. Expect minimal slides, plenty of live demo, and time to try it yourself. 
+> 
+> The session will aim to leave you with a working template you can reuse for coursework, experiments, or prototypes – and the confidence to collaborate without breaking each other’s code.
 
-### Learning outcomes (3-5)
-- Outcome 1
-- Outcome 2
-- Outcome 3
+### Learning outcomes
+- Initialise and sync a Git repository with sensible branching.
+- Create a reproducible Python project using Poetry + pyenv.
+- Manage dependencies, scripts, and lockfiles for portability.
+- Navigate basic PR flows and resolve simple merge conflicts.
 
 ### Who should attend
-- Roles/skills that benefit (e.g., researchers, data engineers, policy analysts).
+- Researchers, HDRs, RAs, data/quant analysts, software-curious staff, and anyone wanting a quick, practical refresher.
 
 ### Prerequisites & setup
-- Software, data access, accounts, or environment to install/prepare before the session.
+- Install PyCharm on your laptop before the session.
+- **If using institution-/university-provided laptops:** ensure you have admin rights to install software and update PATH variables.
+  - **QUT users:** apply for admin access and ensure the “MakeMeAdmin” app is enabled.
+- Personal laptops are welcome. We will install Poetry, pyenv, and Git together during the session.
+- The presenter works on macOS, but cross-platform steps for Windows/Linux will be provided.
 
 ### Agenda (indicative)
 - 00:00–00:05 — Welcome & context  
 - 00:05–00:35 — Main content/demo  
-- 00:35–00:50 — Hands-on / Q&A  
-- 00:50–01:00 — Wrap & resources
+- 00:35–00:50 — Hands-on / troubleshooting 
+- 00:50–01:00 — Wrap, next steps & resources
 
 ### Materials
 - **Slides:** [link](./slides/)
 - **Code/demo:** (pending, to be added)
-- **Dataset(s):** (pending, to be added)
+- **Dataset(s):** Not applicable.
 
 ### Recording & transcript (post-session)
 - **Recording:** (pending, to be added)
-- **Transcript:** (pending, to be added)
+- **Transcript:** Not applicable.
 
 ### References & further reading
-- Key papers, docs, or tutorials.
+- Not applicable.
 
 ---
 
 ### Licensing & attributions
 - **Content license:** CC BY 4.0
 - **Code license:** MIT
-- **Preferred citation:** Speaker, "Title", ARC BITA Geek Seminars, 2025-08-22. Available at: URL
+- **Preferred citation:** Bickley, S.J. (2025). "Git + Python (Poetry) - Hands-on Foundations", ARC BITA Geek Seminars, 2025-09-18.
 - **Third-party assets:**  
-  - (list any external items with their licenses)
-
-> Per-session licensing and citations are set here by the session lead. If not specified, defaults apply: Content **CC BY 4.0**, Code **MIT**. Only license materials you own or have rights to share.
+  - Not applicable or cited/attributed within slides.
 
 ---
 
 ### Changelog
-- 2025-08-22: Initial version of template README.md file created by Dr. Steve Bickley.
-- 2025-09-01: Revised version of template README.md file by Dr. Steve Bickley.
+- 2025-09-15: Initial slides developed by Dr. Steve Bickley.
+- 2025-09-15: Slides & workshop materials uploaded to repo + initial session README developed by Dr. Steve Bickley.
 
 ---
 
