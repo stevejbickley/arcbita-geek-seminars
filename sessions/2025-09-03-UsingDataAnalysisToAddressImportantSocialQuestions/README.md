@@ -42,10 +42,9 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 - Nil required before the session.
 
 ### Agenda (indicative)
-- 00:00–00:05 — Welcome & context  
-- 00:05–00:35 — Main content/demo  
-- 00:35–00:50 — Hands-on / Q&A  
-- 00:50–01:00 — Wrap & resources
+- 00:00–00:01 — Welcome & context  
+- 00:01–02:08 — Main content/presentation  
+- 02:08–02:13 — Wrap & resources
 
 ### Materials
 - **Slides:** [link](./slides/)
