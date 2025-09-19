@@ -26,6 +26,9 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 > New to version control or reproducible Python projects? This hands-on session gets you from zero to a clean, shareable repo. The session will cover core Git workflows (clone, branch, commit, push, pull request) and set up a modern Python project using Poetry and pyenv for dependable dependencies management and isolated virtual environments. Expect minimal slides, plenty of live demo, and time to try it yourself. 
 > 
 > The session will aim to leave you with a working template you can reuse for coursework, experiments, or prototypes – and the confidence to collaborate without breaking each other’s code.
+>
+> ⚠️ Trigger warning: very messy session – i.e. a good reminder to prep, test, and trial run before doing live code demos!
+
 
 ### Learning outcomes
 - Initialise and sync a Git repository with sensible branching.
@@ -44,18 +47,18 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 - The presenter works on macOS, but cross-platform steps for Windows/Linux will be provided.
 
 ### Agenda (indicative)
-- 00:00–00:05 — Welcome & context  
-- 00:05–00:35 — Main content/demo  
-- 00:35–00:50 — Hands-on / troubleshooting 
-- 00:50–01:00 — Wrap, next steps & resources
+- 00:00–00:03 — Welcome & context  
+- 00:03–00:55 — Main content/presentation  
+- 00:55–01:27 — Hands-on / troubleshooting 
+- 01:27–01:29 — Wrap, next steps & resources
 
 ### Materials
 - **Slides:** [link](./slides/)
-- **Code/demo:** (pending, to be added)
+- **Code/demo:** Refer to slides.
 - **Dataset(s):** Not applicable.
 
 ### Recording & transcript (post-session)
-- **Recording:** (pending, to be added)
+- **Recording:** [link](./recording/)
 - **Transcript:** Not applicable.
 
 ### References & further reading
@@ -75,6 +78,7 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 ### Changelog
 - 2025-09-15: Initial slides developed by Dr. Steve Bickley.
 - 2025-09-15: Slides & workshop materials uploaded to repo + initial session README developed by Dr. Steve Bickley.
+- 2025-09-19: Session recording uploaded + slides updated to fix errors + minor edits to README by Dr. Steve Bickley.
 
 ---
 
