@@ -23,7 +23,7 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 > Dr Tony Beatton, ARC Centre for Behavioural Insights for Technology Adoption (ARC BITA) at QUT
 
 ### Abstract
-> This next geek session will initially pick up from where we stopped in the last session. So, it begins with PanelWhiz, then we move on to descriptive statistics (pdf of slides attached).
+> This next geek session will initially pick up from where we stopped in the last session. So, it begins with PanelWhiz (refer to 2025-09-03 session in "demos" folder for panelwhiz materials), then we move on to descriptive statistics.
 >
 > The descriptive statistics session will initially appear simplistic; it covers what we do in the first couple of lectures of an introductory statistics course. However, the session will challenge attendees to “think” about how we can better use descriptive statistics in our studies. We will do this by focussing on a simple hypothesis, which we revisit in all the Geek statistics sessions: What happens to our health when we are overweight?
 > 
