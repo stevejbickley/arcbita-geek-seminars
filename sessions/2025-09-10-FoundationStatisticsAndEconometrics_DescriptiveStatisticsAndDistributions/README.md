@@ -62,6 +62,10 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 ### References & further reading
 - Podcast mentioned by Benno Torgler: https://freakonomics.com/podcast/the-economist-who-gasp-asks-people-what-they-think/.
 - Link to statdoc by Markus Schaffner: https://github.com/mas802/statdoc.
+- Some methods papers by Stefanie Stantcheva (JBC medallist) that Benno referred to in the last Geek seminar on survey:
+  - https://www.nber.org/papers/w32421
+  - https://www.aeaweb.org/articles?id=10.1257/pandp.20221071
+  - https://scholar.harvard.edu/files/stantcheva/files/How_to_run_surveys_Stantcheva.pdf
 
 ---
 
@@ -78,6 +82,7 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 - 2025-09-07: Initial slides developed by Dr. Douglas Beatton.
 - 2025-09-10: Slides & workshop materials uploaded to repo + initial session README developed by Dr. Steve Bickley.
 - 2025-09-10: Added recording link + minor edits to README.
+- 2025-09-19: Minor edits to README with method papers referred to by Benno & forwarded by Ben.
 
 ---
 
