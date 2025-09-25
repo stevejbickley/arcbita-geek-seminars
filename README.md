@@ -14,16 +14,16 @@
 </table>
 
 ### Welcome to the ARC BITA Geek Seminars Knowledge Hub!
-_Last Updated: 15 September by Dr. Steve Bickley_
+_Last Updated: 25 September by Dr. Steve Bickley_
 
 This repository serves as the official knowledge hub for the ARC BITA Geek Seminar Series, a platform for sharing knowledge and insights on empirical research methods for behavioural insights and technology adoption.
 
 ### Upcoming Seminar:
 
-Join us for our next Geek Seminar on “**Git + Python (Poetry) - Hands-on Foundations**”
-* Date: Thursday 18 September
-* Time: 2.30pm – 4.00pm
-* Location: GP-Z730, Level 7, Z Block, Gardens Point Campus or via [Zoom](https://qut.zoom.us/j/82016268658?pwd=aJgaNoW21jNMpGbHJ7jInVjgFZdlyb.1)
+Join us for our next Geek Seminar on “**Foundation Statistics and Econometrics -Descriptive statistics and distributions (Part 2)**”
+* Date: Wednesday 1 October
+* Time: 10.30am - 12.00pm
+* Location: GP-Z730, Level 7, Z Block, Gardens Point Campus or via [Zoom](https://qut.zoom.us/j/87241611827?pwd=cb3JmzMz3Zt69p56dNqsHHx7GSmKak.1)
 
 --- 
 ### What this repo holds:
