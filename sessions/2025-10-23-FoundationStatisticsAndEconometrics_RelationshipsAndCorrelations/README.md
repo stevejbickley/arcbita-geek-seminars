@@ -17,22 +17,20 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 ---
 
 ### Session Title
-> Foundation Statistics and Econometrics - Descriptive Statistics and Distributions 2
+> Foundation Statistics and Econometrics - Relationships and Correlations
 
 ### Presenter(s)
 > Dr Tony Beatton, ARC Centre for Behavioural Insights for Technology Adoption (ARC BITA) at QUT
 
 ### Abstract
-> This next geek session will initially pick up from where we stopped in the 10 September session (refer to 2025-09-10 session for workshop slides/materials, see link provided below).
+> This next geek session will initially pick up from where we stopped in the 1 October session.
 >
-> The descriptive statistics session will initially appear simplistic; it covers what we do in the first couple of lectures of an introductory statistics course. However, the session will challenge attendees to “think” about how we can better use descriptive statistics in our studies. We will do this by focussing on a simple hypothesis, which we revisit in all the Geek statistics sessions: What happens to our health when we are overweight?
+> Following this, the session will explore the essential concepts at the heart of statistical and econometric analysis, focusing on how relationships between variables are identified, measured, and interpreted. 
 > 
-> In summary, this Geek Seminar introduces participants to the foundations of statistics and econometrics, with a focus on descriptive statistics and distributions. This session will
- provide a practical starting point for understanding how data can be summarised, visualised, and interpreted to uncover meaningful patterns. Whether you’re refreshing your knowledge or building new skills, this seminar will equip you with essential tools for
- analysing and making sense of data.
+> Whether you're new to the field or looking to refresh your understanding, Tony will guide us through key principles like correlation, causation, and the tools used to uncover patterns in data. Expect a practical, engaging seminar with real-world examples and plenty of time for questions.
 
 ### Learning outcomes
-- Develop a clear understanding of descriptive statistics, including measures of central tendency, variability, and distribution.
+- Develop a clear understanding of descriptive statistics.
 - Critically reflect on how basic statistical tools can inform research questions and hypotheses, using health and weight as a running example. 
 - Build a foundation for more advanced statistical and econometric techniques covered in later Geek Seminars.
 
@@ -43,21 +41,20 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 - Data engineers or practitioners interested in applying statistics to real-world problems.
 
 ### Prerequisites & setup
-- Not applicable.
+- None required, optional to review materials/recording from previous session on 10 September. Unfortunately, there was an issue/error with the recording on the 1 October session.
 
 ### Agenda (indicative)
 - 00:00–00:05 — Welcome & context  
-- 00:05–00:35 — Main content/demo  
-- 00:35–00:50 — Hands-on / Q&A  
-- 00:50–01:00 — Wrap & resources
+- 00:05–01:20 — Main content/demo
+- 01:20–01:30 — Wrap & resources
 
 ### Materials
-- **Slides:** [link](../2025-09-10-FoundationStatisticsAndEconometrics_DescriptiveStatisticsAndDistributions/slides/)
+- **Slides:** [link](./slides/)
 - **Code/demo:** Not applicable.
 - **Dataset(s):** Not applicable.
 
 ### Recording & transcript (post-session)
-- **Recording:** Not available because there was unfortunately an error with the recording process.
+- **Recording:** (pending, to be added)
 - **Transcript:** Not applicable.
 
 ### References & further reading
@@ -68,15 +65,16 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 ### Licensing & attributions
 - **Content license:** CC BY 4.0
 - **Code license:** MIT
-- **Preferred citation:** Beatton, D. (2025). "Foundation Statistics and Econometrics - Descriptive Statistics and Distributions 2", ARC BITA Geek Seminars, 2025-10-01.
+- **Preferred citation:** Beatton, D. (2025). "Foundation Statistics and Econometrics - Relationships and Correlations", ARC BITA Geek Seminars, 2025-10-23.
 - **Third-party assets:**  
   - Not applicable or cited/attributed within slides.
 
 ---
 
 ### Changelog
-- 2025-09-26: Initial session README developed by Dr. Steve Bickley.
-- 2025-10-15: Minor updates to README noting the recording error.
+- 2025-10-13: Initial slides developed/shared by Dr. Douglas Beatton.
+- 2025-10-14: Zoom meeting/link created and distributed by Jennifer Petley.
+- 2025-10-15: Initial session README developed by Dr. Steve Bickley.
 ---
 
 ### About ARC BITA & contacts
