@@ -14,16 +14,23 @@
 </table>
 
 ### Welcome to the ARC BITA Geek Seminars Knowledge Hub!
-_Last Updated: 25 September by Dr. Steve Bickley_
+_Last Updated: 15 October by Dr. Steve Bickley_
 
 This repository serves as the official knowledge hub for the ARC BITA Geek Seminar Series, a platform for sharing knowledge and insights on empirical research methods for behavioural insights and technology adoption.
 
-### Upcoming Seminar:
+--- 
 
-Join us for our next Geek Seminar on “**Foundation Statistics and Econometrics -Descriptive statistics and distributions (Part 2)**”
-* Date: Wednesday 1 October
-* Time: 10.30am - 12.00pm
-* Location: GP-Z730, Level 7, Z Block, Gardens Point Campus or via [Zoom](https://qut.zoom.us/j/87241611827?pwd=cb3JmzMz3Zt69p56dNqsHHx7GSmKak.1)
+### Upcoming Seminar/s:
+
+Join us for our next Geek Seminars on “**Relationships & correlations**” facilitated by Dr. Tony Beatton.
+* Date: Thursday 23 October
+* Time: 2.00 - 3.30pm
+* Location: GP-Z730, Level 7, Z Block, Gardens Point Campus or via [Zoom](https://qut.zoom.us/j/85303463749?pwd=AdFVAFAQs3Nk3lzIsCbV2jkN8CkhYR.1)
+
+And on “**A Practical Guide to Synthetic Data Generation**” facilitated by Arian Marshhady.
+* Date: Wednesday 29 October
+* Time: 12.30 - 2.30pm
+* Location: GP-Z730, Level 7, Z Block, Gardens Point Campus or via [Zoom](https://qut.zoom.us/j/83516828456?pwd=AFyNw9M3lCzXsCWMa9XykGJ3KjKJQl.1)
 
 --- 
 ### What this repo holds:
@@ -79,9 +86,11 @@ and [YouTube channel](https://www.youtube.com/@ARCBITA).
   citation: "Speaker, Title, ARC BITA Geek Seminars, YYYY-MM-DD, Available at: URL"
   ```
 * **Note:** The session is lead is responsible for third-party materials including their original license/attributions.
+* For more information on licensing options: https://creativecommons.org/licenses/#australia-25.
 
 ---
 
 ### Changelog:
 * 2025-08-22: Initial repo setup, developed & published by Dr. Steve Bickley.
-* 2024-09-06: Added upcoming seminar details.
+* 2024-09-06: Minor updates to README to add upcoming seminar details by Dr. Steve Bickley.
+* 2024-10-15: Minor updates to README to add link to creativecommons.org by Dr. Steve Bickley.
