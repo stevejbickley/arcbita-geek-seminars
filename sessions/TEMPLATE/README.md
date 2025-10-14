@@ -44,12 +44,12 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 
 ### Materials
 - **Slides:** [link](./slides/)
-- **Code/demo:** (pending, to be added)
-- **Dataset(s):** (pending, to be added)
+- **Code/demo:** (pending, to be added or "Not applicable.")
+- **Dataset(s):** (pending, to be added or "Not applicable.")
 
 ### Recording & transcript (post-session)
-- **Recording:** (pending, to be added)
-- **Transcript:** (pending, to be added)
+- **Recording:** (pending, to be added or "Not applicable.")
+- **Transcript:** (pending, to be added or "Not applicable.")
 
 ### References & further reading
 - Key papers, docs, or tutorials.
@@ -59,17 +59,18 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 ### Licensing & attributions
 - **Content license:** CC BY 4.0
 - **Code license:** MIT
-- **Preferred citation:** Speaker, "Title", ARC BITA Geek Seminars, 2025-08-22. Available at: URL
+- **Preferred citation:** Speaker, "Title", ARC BITA Geek Seminars, YYYY-MM-DD. Available at: URL
 - **Third-party assets:**  
-  - (list any external items with their licenses)
+  - (list any external items with their licenses, typically "Not applicable or cited/attributed within slides.")
 
-> Per-session licensing and citations are set here by the session lead. If not specified, defaults apply: Content **CC BY 4.0**, Code **MIT**. Only license materials you own or have rights to share.
+> Per-session licensing and citations are set here by the session lead. If not specified, defaults apply: Content **CC BY 4.0**, Code **MIT**. Only license materials you own or have rights to share. For more information on licensing options: https://creativecommons.org/licenses/#australia-25.
 
 ---
 
 ### Changelog
 - 2025-08-22: Initial version of template README.md file created by Dr. Steve Bickley.
 - 2025-09-01: Revised version of template README.md file by Dr. Steve Bickley.
+- 2025-10-15: Minor updates to template README.md file by Dr. Steve Bickley.
 
 ---
 
