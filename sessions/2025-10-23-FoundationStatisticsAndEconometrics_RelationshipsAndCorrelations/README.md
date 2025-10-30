@@ -54,7 +54,7 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 - **Dataset(s):** Not applicable.
 
 ### Recording & transcript (post-session)
-- **Recording:** (pending, to be added)
+- **Recording:** [link](./recording/)
 - **Transcript:** Not applicable.
 
 ### References & further reading
@@ -75,6 +75,7 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 - 2025-10-13: Initial slides developed/shared by Dr. Douglas Beatton.
 - 2025-10-14: Zoom meeting/link created and distributed by Jennifer Petley.
 - 2025-10-15: Initial session README developed by Dr. Steve Bickley.
+- 2025-10-31: Post-session materials (video edits/recording) added by Dr. Steve Bickley.
 ---
 
 ### About ARC BITA & contacts
