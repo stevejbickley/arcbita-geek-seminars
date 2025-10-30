@@ -54,7 +54,7 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 - **Dataset(s):** Not applicable.
 
 ### Recording & transcript (post-session)
-- **Recording:** (pending, to be added)
+- **Recording:** [link](./recording/)
 - **Transcript:** Not applicable.
 
 ### References & further reading
@@ -65,7 +65,7 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 ### Licensing & attributions
 - **Content license:** CC BY 4.0
 - **Code license:** MIT
-- **Preferred citation:** Marshhady, A. (2025). "Foundation Statistics and Econometrics - Relationships and Correlations", ARC BITA Geek Seminars, 2025-10-29.
+- **Preferred citation:** Marshhady, A. (2025). "A Practical Guide to Synthetic Data Generation", ARC BITA Geek Seminars, 2025-10-29.
 - **Third-party assets:**  
   - Not applicable or cited/attributed within slides.
 
@@ -75,6 +75,7 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 - 2025-10-07: Initial slides developed/shared by Arian Marshhady.
 - 2025-10-14: Zoom meeting/link created and distributed by Jennifer Petley.
 - 2025-10-15: Initial session README developed by Dr. Steve Bickley.
+- 2025-10-31: Post-session materials (video edits/recording) added by Dr. Steve Bickley.
 
 ---
 
