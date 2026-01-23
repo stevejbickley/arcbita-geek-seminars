@@ -88,5 +88,5 @@ Other ARC BITA updates are available on our [official website](https://arcbita.o
 
 To discuss research or opportunities, please reach out via our [contact form](https://arcbita.org/contact).
 
-<sub>Back to the repo home: [ARC BITA Geek Seminars Knowledge Hub](../../README.md)</sub>
+<sub>Back to the repo home: [ARC BITA Geek Seminars Knowledge Hub](https://github.com/stevejbickley/arcbita-geek-seminars/tree/main)</sub>
 
