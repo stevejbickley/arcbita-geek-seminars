@@ -22,7 +22,7 @@ This repository serves as the official knowledge hub for the ARC BITA Geek Semin
 
 ### Upcoming Seminar/s:
 
-Join us for our next Geek Seminars on “**Relationships & correlations**” facilitated by Dr. Tony Beatton.
+Join us for our next Geek Seminars on “**IV with Heirarchial Analysis / Sample Frame Segmentation**” facilitated by Dr. Tony Beatton.
 * Date: Wednesday 4 February 2026
 * Time: 10.30am-12.00pm
 * Location: GP-Z730, Level 7, Z Block, Gardens Point Campus or via Zoom (details to be shared shortly)
