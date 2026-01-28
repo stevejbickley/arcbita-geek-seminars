@@ -25,7 +25,7 @@ This repository serves as the official knowledge hub for the ARC BITA Geek Semin
 Join us for our next Geek Seminars on “**IV with Heirarchial Analysis / Sample Frame Segmentation**” facilitated by Dr. Tony Beatton.
 * Date: Wednesday 4 February 2026
 * Time: 10.30am-12.00pm
-* Location: GP-Z730, Level 7, Z Block, Gardens Point Campus or via Zoom (details to be shared shortly)
+* Location: GP-Z730, Level 7, Z Block, Gardens Point Campus or via [Zoom](https://qut.zoom.us/j/87661323600?pwd=OxcXaw1yfWmvmK0iPz4PbMA8szMvzo.1)
 
 --- 
 ### What this repo holds:
