@@ -14,7 +14,7 @@
 </table>
 
 ### Welcome to the ARC BITA Geek Seminars Knowledge Hub!
-_Last Updated: 23 January 2026 by Dr. Steve Bickley_
+_Last Updated: 19 March 2026 by Dr. Steve Bickley_
 
 This repository serves as the official knowledge hub for the ARC BITA Geek Seminar Series, a platform for sharing knowledge and insights on empirical research methods for behavioural insights and technology adoption.
 
@@ -22,10 +22,10 @@ This repository serves as the official knowledge hub for the ARC BITA Geek Semin
 
 ### Upcoming Seminar/s:
 
-Join us for our next Geek Seminars on “**IV with Heirarchial Analysis / Sample Frame Segmentation**” facilitated by Dr. Tony Beatton.
-* Date: Wednesday 4 February 2026
+Join us for our next Geek Seminars on “**Agentic Tasks and Workflows**” facilitated by Arian Mashhady.
+* Date: Wednesday 1 April 2026
 * Time: 10.30am-12.00pm
-* Location: GP-Z730, Level 7, Z Block, Gardens Point Campus or via [Zoom](https://qut.zoom.us/j/87661323600?pwd=OxcXaw1yfWmvmK0iPz4PbMA8szMvzo.1)
+* Location: GP-Z730, Level 7, Z Block, Gardens Point Campus or via [Zoom](https://qut.zoom.us/j/89333225434?pwd=MbaC4uVQjepQHpxVddSin3KfHi9NaB.1)
 
 --- 
 ### What this repo holds:
