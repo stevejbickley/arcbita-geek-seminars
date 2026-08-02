@@ -14,7 +14,7 @@
 </table>
 
 ### Welcome to the ARC BITA Geek Seminars Knowledge Hub!
-_Last Updated: 19 March 2026 by Dr. Steve Bickley_
+_Last Updated: 3 August 2026 by Dr. Steve Bickley_
 
 This repository serves as the official knowledge hub for the ARC BITA Geek Seminar Series, a platform for sharing knowledge and insights on empirical research methods for behavioural insights and technology adoption.
 
@@ -22,15 +22,39 @@ This repository serves as the official knowledge hub for the ARC BITA Geek Semin
 
 ### Upcoming Seminar/s:
 
-Join us for our next Geek Seminars on “**Agentic Tasks and Workflows**” facilitated by Arian Mashhady.
-* Date: Wednesday 1 April 2026
-* Time: 10.30am-12.00pm
-* Location: GP-Z730, Level 7, Z Block, Gardens Point Campus or via [Zoom](https://qut.zoom.us/j/89333225434?pwd=MbaC4uVQjepQHpxVddSin3KfHi9NaB.1)
+Join us for our next Geek Seminars on “**Agentic Workflows for Semantic Automation in Research**” facilitated by Tim Nguyen.
+* Date: Tuesday 4 August 2026
+* Time: 2.30pm to 3.30pm
+* Location: GP-Z730, Level 7, Z Block, Gardens Point Campus or via [Zoom](https://qut.zoom.us/j/83053860142?pwd=OHYlOlXnDaw0o3SRroDtYw39dOJYT0.1&from=addon)
 
 --- 
 ### What this repo holds:
 * The slides, code demos, and resources used in each session.
 * Recordings and/or meeting transcripts for each session.
+
+---
+
+### Find a seminar session:
+
+Sessions are listed newest first. Use your browser's find command (`Ctrl+F` on Windows/Linux or `Command+F` on macOS) to search the topics and keywords below. Select a session title to open its README and find the available slides, demos, recordings, transcripts, and further reading.
+
+| Date | Topics & themes (search keywords) | Session | Presenter(s)                 |
+| --- | --- | --- |------------------------------|
+| 2026-08-04 | **AI & agentic research workflows:** unstructured text, knowledge graphs, semantic automation, schema-guided extraction, provenance, human review | [From Unstructured Text to Knowledge Graphs: Agentic Workflows for Semantic Automation in Research](./sessions/2026-08-04-AgenticWorkflowsforSemanticAutomationinResearch/README.md) | Tim Nguyen                   |
+| 2026-04-01 | **AI & agentic systems:** tool calling, RAG, LLMs, rerankers, workflow design, orchestration | [Agentic Tasks and Workflows](./sessions/2026-04-01-AgenticTasksAndWorkflows/README.md) | Arian Marshhady              |
+| 2026-02-27 | **Statistics & econometrics:** fuzzy regression, uncertainty, forecasting, decision-making | [Fuzzy Regression Methods](./sessions/2026-02-27-FuzzyRegressionMethods/README.md) | Dr Tony Beatton              |
+| 2026-02-04 | **Causal inference & policy evaluation:** instrumental variables (IV), hierarchical analysis, sample-frame segmentation, adolescent crime | [Use of IV with Hierarchical Analysis and Sample Frame Segmentation](./sessions/2026-02-04-IVWithHeirarchialAnalysisAndSampleFrameSegmentation/README.md) | Dr Tony Beatton              |
+| 2026-01-21 | **Causal inference & econometrics:** instrumental variables (IV), IVREGRESS, IVREG2, Stata, diagnostics | [Foundation Statistics and Econometrics: Causation Analysis Using Instruments](./sessions/2026-01-21-CausationAnalysisUsingInstruments/README.md) | Dr Tony Beatton              |
+| 2025-12-08 | **AI & research analytics:** artificial intelligence, scientometrics, research evaluation | [AI in Scientometrics](./sessions/2025-12-08-AIInScientometrics/README.md) | Associate Professor Yi Zhang |
+| 2025-12-02 | **Research governance:** research ethics, integrity, responsible conduct, human research, QUT processes | [Research Ethics and Integrity](./sessions/2025-12-02-ResearchEthicsAndIntegrity/README.md) | Professor Lynn Woodward      |
+| 2025-10-29 | **Data science & privacy:** synthetic data, Gaussian Copula, CTGAN, TVAE, CopulaGAN, data quality | [A Practical Guide to Synthetic Data Generation](./sessions/2025-10-29-APracticalGuideToSyntheticDataGeneration/README.md) | Arian Marshhady              |
+| 2025-10-23 | **Statistics & econometrics:** relationships, correlations, causation, real-world data | [Foundation Statistics and Econometrics: Relationships and Correlations](./sessions/2025-10-23-FoundationStatisticsAndEconometrics_RelationshipsAndCorrelations/README.md) | Dr Tony Beatton              |
+| 2025-10-01 | **Statistics & econometrics:** descriptive statistics, distributions, health data, foundations (part 2) | [Foundation Statistics and Econometrics: Descriptive Statistics and Distributions 2](./sessions/2025-10-01-FoundationStatisticsAndEconometrics_DescriptiveStatisticsAndDistributions_2/README.md) | Dr Tony Beatton              |
+| 2025-09-18 | **Research software & reproducibility:** Git, Python, Poetry, pyenv, version control, pull requests | [Git + Python (Poetry): Hands-on Foundations](./sessions/2025-09-18-Git-Python-Poetry_Hands-OnFoundations/README.md) | Dr Steve Bickley             |
+| 2025-09-10 | **Statistics & econometrics:** descriptive statistics, distributions, health data, foundations | [Foundation Statistics and Econometrics: Descriptive Statistics and Distributions](./sessions/2025-09-10-FoundationStatisticsAndEconometrics_DescriptiveStatisticsAndDistributions/README.md) | Dr Tony Beatton              |
+| 2025-09-03 | **Applied data analysis & social research:** panel data, longitudinal data, missing data, HILDA, PanelWhiz, governance | [Using Data Analysis to Address Important Social Questions](./sessions/2025-09-03-UsingDataAnalysisToAddressImportantSocialQuestions/README.md) | Dr Tony Beatton              |
+| 2025-08-27 | **Research careers & professional development:** business development, post-PhD careers, partnerships, funding, collaboration | [Business Development Approach to Growing Your Research Career](./sessions/2025-08-27-BusinessDevelopmentApproachToYourResearchCareer/README.md) | Dr Tony Beatton & Dr Steve Bickley |
+
 
 ---
 
@@ -80,9 +104,10 @@ and [YouTube channel](https://www.youtube.com/@ARCBITA).
 ---
 
 ###  Major Changelog:
-* 2025-08-22: Initial repo setup, developed & published by Dr. Steve Bickley.
-* 2025-09-06: Minor updates to README to add upcoming seminar details by Dr. Steve Bickley.
-* 2025-10-15: Minor updates to README to add link to creativecommons.org by Dr. Steve Bickley.
-* 2026-01-23: Updated the workflow for suggesting/proposing new geek sessions by Dr. Steve Bickley.
+* 2025-08-22: Initial repo setup, developed & published.
+* 2025-09-06: Minor updates to README to add upcoming seminar details.
+* 2025-10-15: Minor updates to README to add link to creativecommons.org.
+* 2026-01-23: Updated the workflow for suggesting/proposing new geek sessions.
+* 2026-08-03: Added a searchable topic and session index with links to all session README files.
 
 **Note:** Minor updates (e.g. adjusting upcoming sessions) are applied directly and not recorded here. Only major changes to the README are logged above.
