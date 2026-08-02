@@ -17,60 +17,75 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 ---
 
 ### Session Title
-> Session Title
+> Artificial Intelligence for Scientometrics
 
 ### Presenter(s)
-> Presenter(s) Name & Affiliations
+> Associate Professor Yi Zhang from University of Technology Sydney (UTS) Australian Artificial Intelligence Institute (AAII) and the School of Computer Science in the Faculty of Engineering and Information Technology.
 
 ### Abstract
-> 120–180 words describing the problem, approach, and expected value for attendees.
+> Artificial intelligence is reshaping how researchers analyse scientific activity, identify relationships and anticipate emerging developments, while also introducing important challenges for reliability, transparency and responsible use. Scientometrics offers a particularly valuable setting for examining these opportunities because scientific and technological activity is represented through large-scale, interconnected collections of publications, patents, researchers, institutions and topics.
+> 
+> This seminar introduces the emerging field of intelligent bibliometrics: the integration of artificial intelligence, data science and bibliometric indicators to investigate real-world science, technology and innovation systems. Associate Professor Yi Zhang will discuss how machine learning, graph representation learning and large language models can support topic modelling, relationship discovery, data augmentation, research classification and technological forecasting. Drawing on applications involving scientific topic evolution, knowledge flows, citation prediction and research-aim classification, the session will also consider responsible AI principles, including reliability, reproducibility, explainability, transparency and inclusiveness, and the future role of human–AI collaboration in scientometric research.
 
-### Learning outcomes (3-5)
-- Outcome 1
-- Outcome 2
-- Outcome 3
+### Learning outcomes
+- Distinguish contemporary AI from conventional automation, information systems and descriptive data analytics.
+- Explain the concept of intelligent bibliometrics and how AI can be combined with bibliometric and scientometric indicators.
+- Identify applications of language models, knowledge graphs and graph-learning methods in analysing scientific activity.
+- Recognise key requirements for reliable, reproducible, explainable and inclusive AI-enabled scientometric research.
+- Assess the opportunities and limitations of human–AI collaboration, including trust, complementarity and cross-validation.
 
 ### Who should attend
-- Roles/skills that benefit (e.g., researchers, data engineers, policy analysts).
+- Scientometricians, bibliometricians and science-of-science researchers.
+- Researchers studying science, technology and innovation systems.
+- Data scientists, AI researchers and research software engineers.
+- Research evaluation, policy and research-management professionals.
+- Researchers interested in large language models, graph learning, knowledge graphs or technological forecasting.
 
 ### Prerequisites & setup
-- Software, data access, accounts, or environment to install/prepare before the session.
+- No software installation, coding environment or specialist data access is required.
+- No prior technical experience with machine learning or scientometrics is assumed.
+- Familiarity with bibliometric data, research evaluation, network analysis or artificial intelligence may be helpful but is not essential.
 
 ### Agenda (indicative)
 - 00:00–00:05 — Welcome & context  
-- 00:05–00:35 — Main content/demo  
-- 00:35–00:50 — Hands-on / Q&A  
-- 00:50–01:00 — Wrap & resources
+- 00:05–01:20 — Main content/demo
+- 01:20–01:30 — Wrap & resources
 
 ### Materials
 - **Slides:** [link](./slides/)
-- **Code/demo:** (pending, to be added or "Not applicable.")
-- **Dataset(s):** (pending, to be added or "Not applicable.")
+- **Code/demo:** Not applicable.
+- **Dataset(s):** Not applicable.
 
 ### Recording & transcript (post-session)
-- **Recording:** (pending, to be added or "Not applicable.")
-- **Transcript:** (pending, to be added or "Not applicable.")
+- **Recording:** [link](./recording/)
+- **Transcript:** Not applicable.
 
 ### References & further reading
-- Key papers, docs, or tutorials.
+- Zhang, Y. (2023). Responsible models and indicators: Challenges from artificial intelligence. *Frontiers in Research Metrics and Analytics, 8*, 1305692.
+- Zhang, Y., et al. (2025). Artificial intelligence for scientometrics: A survey. *Scientometrics*, forthcoming.
+- Zhang, Y., Zhang, G., Zhu, D., & Lu, J. (2017). Science evolutionary pathways: Identifying and visualizing relationships for scientific topics. *Journal of the Association for Information Science and Technology, 68*(8), 1925–1939.
+- Lian, X., Zhang, Y., Wu, M., & Guo, Y. (2025). Do scientific knowledge flows inspire exploratory innovation? Evidence from US biomedical and life sciences firms. *Technovation, 140*, 103153.
+- Lu, M., Wu, M., Xu, J., Li, W., Liu, F., Ding, Y., et al., & Zhang, Y. (2025). From newborn to impact: Bias-aware citation prediction. *arXiv preprint*, arXiv:2510.19246.
+- Wu, M., Sivertsen, G., Zhang, L., Qi, F., & Zhang, Y. (2025). Scaling research aim identification: Language models for classifying scientific and societal-oriented studies. *Journal of the Association for Information Science and Technology, 76*(11), 1470–1487.
+- Zhang, L., Sivertsen, G., Du, H., Huang, Y., & Glänzel, W. (2021). Gender differences in the aims and impacts of research. *Scientometrics, 126*, 8861–8886.
+
 
 ---
 
 ### Licensing & attributions
-- **Content license:** CC BY 4.0
-- **Code license:** MIT
-- **Preferred citation:** Speaker, "Title", ARC BITA Geek Seminars, YYYY-MM-DD. Available at: URL
-- **Third-party assets:**  
-  - (list any external items with their licenses, typically "Not applicable or cited/attributed within slides.")
-
-> Per-session licensing and citations are set here by the session lead. If not specified, defaults apply: Content **CC BY 4.0**, Code **MIT**. Only license materials you own or have rights to share. For more information on licensing options: https://creativecommons.org/licenses/#australia-25.
+- **Content license:** CC BY 4.0, subject to the rights and exclusions noted below.
+- **Code license:** MIT. No session code is currently provided.
+- **Preferred citation:** Zhang, Yi, "Artificial Intelligence for Scientometrics", ARC BITA Geek Seminars, 2025-12-08.
+- **Third-party assets:**
+  - The presentation contains external images, diagrams, institutional logos and summaries of published research. These materials remain subject to their original copyright and licensing conditions.
+  - Academic sources are cited within the slides and in the references above.
+  - The CC BY 4.0 licence applies only to original session content that the presenter and ARC BITA have the right to license.
 
 ---
 
 ### Changelog
-- 2025-08-22: Initial version of template README.md file created by Dr. Steve Bickley.
-- 2025-09-01: Revised version of template README.md file by Dr. Steve Bickley.
-- 2025-10-15: Minor updates to template README.md file by Dr. Steve Bickley.
+- 2026-08-03: Session README populated from the seminar presentation and event information by Dr. Steve Bickley.
+- 2025-12-08: Session delivered by Associate Professor Yi Zhang.
 
 ---
 
