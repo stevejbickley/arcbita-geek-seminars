@@ -81,6 +81,27 @@ Sessions are listed newest first. Use your browser's find command (`Ctrl+F` on W
 
 ---
 
+### Publishing rendered HTML session pages:
+
+Selected, self-contained HTML resources are published through GitHub Pages. The deployment workflow builds a small site from only the files listed in [`.github/pages-files.txt`](./.github/pages-files.txt); recordings, slides, and all other repository files are excluded. The workflow is defined in [`.github/workflows/deploy-session-pages.yml`](./.github/workflows/deploy-session-pages.yml) and deploys after relevant changes are merged into `main`. Repository administrators must configure **Settings → Pages → Build and deployment → Source** as **GitHub Actions**; do not publish directly from `main / (root)`.
+
+To publish a future HTML resource:
+
+1. Add the rendered, preferably self-contained HTML file to its session folder.
+2. For a clean directory URL, add an `index.html` in the same folder that redirects to the rendered HTML file. See the [Claude Code session redirect](./sessions/2026-07-29-ClaudeCodeforAppliedSocialScience/index.html) for an example.
+3. Add the repository-relative path of each file required by the page to [`.github/pages-files.txt`](./.github/pages-files.txt), one path per line. Keep existing entries because every deployment replaces the complete Pages site. If a page uses separate CSS, JavaScript, or image assets, list those files too; run the workflow manually after any asset-only update.
+4. Update the session README to link to its public URL using this pattern:
+
+   ```text
+   https://stevejbickley.github.io/arcbita-geek-seminars/sessions/YYYY-MM-DD-topic/
+   ```
+
+5. Merge the changes into `main`, then confirm the **Deploy selected session pages** workflow succeeds in the repository's **Actions** tab. The workflow can also be run manually with **Run workflow**.
+
+The current published resource is the [Claude Code for Applied Social Science guide](https://stevejbickley.github.io/arcbita-geek-seminars/sessions/2026-07-29-ClaudeCodeforAppliedSocialScience/).
+
+---
+
 ### Quick links & Other resources:
 * **Propose a session:** open an issue at this [link](https://github.com/stevejbickley/arcbita-geek-seminars/issues).
 * Other ARC BITA updates and resources are available at ARC BITA’s [official website](https://arcbita.org/), 
@@ -110,5 +131,6 @@ and [YouTube channel](https://www.youtube.com/@ARCBITA).
 * 2025-10-15: Minor updates to README to add link to creativecommons.org.
 * 2026-01-23: Updated the workflow for suggesting/proposing new geek sessions.
 * 2026-08-03: Added a searchable topic and session index with links to all session README files.
+* 2026-08-03: Added selective GitHub Pages deployment and instructions for publishing rendered HTML session resources.
 
 **Note:** Minor updates (e.g. adjusting upcoming sessions) are applied directly and not recorded here. Only major changes to the README are logged above.
