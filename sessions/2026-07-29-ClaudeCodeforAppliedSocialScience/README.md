@@ -54,7 +54,7 @@ Self-paced written guide, so there is no fixed running order. The guide sets out
 - **Later** — Sections 8 to 11 on verification, writing, advanced settings, and cost. Come back when you hit the problem each one solves.
 
 ### Materials
-- **Guide:** [`claude-code-guide.html`](./claude-code-guide.html) — open in any browser. Self-contained, works offline, roughly 8,000 words with a sticky table of contents. Source: [`claude-code-guide.qmd`](./claude-code-guide.qmd), rebuilt with `quarto render`.
+- **Guide:** [Open the rendered Claude Code guide](https://stevejbickley.github.io/arcbita-geek-seminars/sessions/2026-07-29-ClaudeCodeforAppliedSocialScience/) — self-contained and works offline, roughly 8,000 words with a sticky table of contents. Source: [`claude-code-guide.qmd`](./claude-code-guide.qmd).
 - **Code/demo:** [`starter/`](./starter/) — the files a research project needs on day one, plus the skills the guide recommends. Thirteen rules, fifteen skills, nine agents, four project documents, a hook that makes `data/raw/` read-only, and a permissions file. See [`starter/README.md`](./starter/README.md) for the inventory and [`starter/SOURCES.md`](./starter/SOURCES.md) for attribution. The fastest route is the one-paste bootstrap prompt in the appendix of the guide.
 
 ### References & further reading
