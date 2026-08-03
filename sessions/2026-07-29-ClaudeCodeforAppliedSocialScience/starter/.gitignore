@@ -1,0 +1,46 @@
+# Data. Git handles large binary files badly and your repository will
+# become unusable. Data belongs in OneDrive, Dropbox, or a data archive.
+data/
+*.csv
+*.dta
+*.sav
+*.parquet
+*.rds
+*.RData
+*.xlsx
+*.xls
+
+# Generated outputs. Rebuildable from the scripts, so not worth versioning.
+scripts/_outputs/
+docs/logs/
+
+# R
+.Rhistory
+.Rproj.user/
+.Renviron
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Stata
+*.smcl
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# OS
+.DS_Store
+Thumbs.db
+~$*
