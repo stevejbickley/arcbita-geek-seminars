@@ -1,0 +1,43 @@
+{
+  "$comment": [
+    "Project settings. Delete anything you disagree with.",
+    "The allow list stops Claude asking permission for things that cannot",
+    "damage anything. Everything not listed still prompts.",
+    "Add your own analysis commands to the allow list as you notice",
+    "yourself approving the same thing repeatedly."
+  ],
+
+  "permissions": {
+    "allow": [
+      "Read(**)",
+      "Bash(Rscript:*)",
+      "Bash(R CMD:*)",
+      "Bash(python:*)",
+      "Bash(python3:*)",
+      "Bash(quarto render:*)",
+      "Bash(git status)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)",
+      "Bash(git add:*)",
+      "Bash(ls:*)",
+      "Bash(pwd)"
+    ],
+    "deny": [
+      "Read(./data/restricted/**)"
+    ]
+  },
+
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python .claude/hooks/protect-raw-data.py"
+          }
+        ]
+      }
+    ]
+  }
+}
