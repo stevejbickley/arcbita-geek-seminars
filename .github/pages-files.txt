@@ -1,0 +1,3 @@
+# Claude Code for Applied Social Science
+sessions/2026-07-29-ClaudeCodeforAppliedSocialScience/index.html
+sessions/2026-07-29-ClaudeCodeforAppliedSocialScience/claude-code-guide.html

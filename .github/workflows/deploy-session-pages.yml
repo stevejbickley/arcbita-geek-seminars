@@ -1,0 +1,73 @@
+name: Deploy selected session pages
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "sessions/**/*.html"
+      - ".github/pages-files.txt"
+      - ".github/workflows/deploy-session-pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    name: Deploy selected session pages
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Assemble selective site
+        shell: bash
+        run: |
+          mkdir -p "_site"
+          touch "_site/.nojekyll"
+
+          while IFS= read -r source_path || [[ -n "${source_path}" ]]; do
+            # Ignore blank lines and comments in the manifest.
+            if [[ -z "${source_path}" || "${source_path}" == \#* ]]; then
+              continue
+            fi
+
+            # Publish only files inside sessions/ and never allow path traversal.
+            if [[ "${source_path}" != sessions/* || "${source_path}" == *".."* ]]; then
+              echo "::error::Unsafe path in .github/pages-files.txt: ${source_path}"
+              exit 1
+            fi
+
+            if [[ ! -f "${source_path}" ]]; then
+              echo "::error::Published file does not exist: ${source_path}"
+              exit 1
+            fi
+
+            destination_path="_site/${source_path}"
+            mkdir -p "${destination_path%/*}"
+            cp "${source_path}" "${destination_path}"
+          done < ".github/pages-files.txt"
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: "_site"
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
