@@ -54,7 +54,7 @@ _**ARC BITA Geek Seminar Series** — a forum for practical, empirical methods a
 - **Dataset(s):** Not applicable.
 
 ### Recording & transcript (post-session)
-- **Recording:** Will be uploaded after the session.
+- **Recording:** [link](./recording/)
 - **Transcript:** Not applicable.
 
 ### References & further reading
