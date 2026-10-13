@@ -54,7 +54,7 @@ Join us for our upcoming **ARC BITA Geek Seminars** at QUT Gardens Point or onli
 | **Wed 14 Oct 2026** · 2.30–4.00pm | **End-to-End LLM-Integrated Agent-Based Modelling System for Social Simulation (Part 2)** | Arian Mashhady | GP-Z730 · [Join via Zoom](https://qut.zoom.us/j/85426030778?pwd=LZM6wahqSAGHs1WADsWCvmRD9PVmUp.1) |
 | **Wed 21 Oct 2026** · 10.30am–12.00pm | **Document Extraction Techniques**                                                        | Tim Nguyen | GP-Z710 · [Join via Zoom](https://qut.zoom.us/j/81752128757?pwd=zeRIYat87qJ8AKY3dHvpa06Au7JzpM.1) |
 | **Thu 22 Oct 2026** · 2.30–4.00pm | **Are AI Methods Valid?**                                                                 | Dr Tony Beatton | GP-Z730 · [Join via Zoom](https://qut.zoom.us/j/86069590594?pwd=Xu94hikvyocyfEbBQsbsSFJbGXTi9m.1) |
-| **Mon 26 Oct 2026** · 2.30–4.00pm | **Time Series/Panel Data Analysis**                                                       | Dr Tony Beatton | Room and Zoom link **to be confirmed** |
+| **Mon 26 Oct 2026** · 2.30–4.00pm | **Time Series/Panel Data Analysis**                                                       | Dr Tony Beatton | GP-Z730 · [Join via Zoom](https://qut.zoom.us/j/81480937269?pwd=1vtDl2Y92QpIbShX2o4h0kRFvDomSi.1) |
 | **Tue 24 Nov 2026** · 10.30am–12.00pm | **Using PLIDA to Explore the Lifetime Costs of Orthopaedic Surgery**                      | Ivan Aranzales Acero | GP-Z730 · [Join via Zoom](https://qut.zoom.us/j/85457308690?pwd=RVoUtJH5i6AOdHjLxrRTH17UOe59ey.1) |
 
 **Venue:** GP-Z710 and GP-Z730 are on Level 7, Z Block, QUT Gardens Point Campus, Brisbane.
