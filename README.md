@@ -14,7 +14,7 @@
 </table>
 
 ### Welcome to the ARC BITA Geek Seminars Knowledge Hub!
-_Last updated: 12 October 2026 by Dr Steve Bickley_
+_Last updated: 15 October 2026 by Dr Steve Bickley_
 
 This repository is the knowledge hub for the ARC BITA Geek Seminar Series, sharing practical methods, tools and research insights for behavioural insights and technology adoption.
 
